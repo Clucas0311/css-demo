@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+}
+
+h1 {
+  border: green 2px solid;
+  text-align: center;
+  padding: 10px;
+  margin-top: 10px;
+  width: 500px;
+  /* height: 500px; */
+}
+
+span {
+  border: solid red 2px;
+  display: inline;
+  height: 500px;
+}
